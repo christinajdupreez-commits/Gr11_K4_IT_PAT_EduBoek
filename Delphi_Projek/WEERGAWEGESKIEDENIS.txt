@@ -1,0 +1,37 @@
+﻿EDUBOEK WEERGAWEGESKIEDENIS
+==========================
+
+0.1.0 - Beplanningsfase
+- Gebruikersvereistes, databasisontwerp, IPO en GUI-prototipes opgestel.
+
+0.5.0 - Implementeringsfase
+- Access/ADO-databasisverbinding, forms, CRUD-funksies, verkope,
+  verslae en invoervalidering geïmplementeer.
+
+1.0.0 - 17 Julie 2026
+- Eerste volledige PAT-werkweergawe, gereed vir praktiese toetsing in Delphi.
+
+1.5.0 - 8 Oktober 2026 (beplande inhandigingsdatum)
+- Bygewerkte PAT-werkweergawe vir finale praktiese toetsing en inhandiging.
+- Vormopskrifte en subtitels by die verslag se ontwerpe aangepas en
+  konsekwent binne die rooi kopbalke geplaas.
+- Herhaalde teks langs die hoofmenu se logo verwyder.
+- Die Verslae-form se komponentnaam en gekoppelde knoppiegebeurtenis
+  reggestel sodat die form korrek kan oopmaak.
+- System.UITypes-verwysings bygevoeg in die eenhede wat MessageDlg se
+  H2443-hints gegee het.
+- Bronlêers se tekskodering gestandaardiseer om Afrikaanse aksente te behou.
+- Voorraad-form se aanvanklike data- en tabelopstelling van OnCreate na
+  OnShow verskuif, sodat kolomme verander word wanneer die form sigbaar is.
+- Aanvanklike veldfokus met ActiveControl en CanFocus bestuur.
+- Data.DB in die Voorraad-eenheid se interface geplaas om 'n dubbele
+  uses-verwysing na ontwerpwysigings te voorkom.
+- Boeksoektog se SQL voltooi voordat die twee afsonderlike ADO-soekparameters
+  se datatipes en waardes ingevul word.
+- Die projek se hulpbronlêer met {$R *.res} ingesluit vir die Windows-manifest.
+- Voorraad se soekwenk opgestel en aanvanklike fokus by Boekkode geplaas.
+- Voorraad se Verwyder-bevestiging vooraf volgens verkoopsrekords aangepas:
+  geen verkope beteken permanent verwyder; bestaande verkope beteken deaktiveer.
+- Die bevestiging verduidelik Yes se aksie en No se kansellasie; No is die verstek.
+- Rekordbesonderhede laai nou ook wanneer die rymerker of navigasiesleutels gebruik word.
+- Praktiese voorraadtoetse van 7 Oktober 2026 in 'n afsonderlike toetsregister aangeteken.

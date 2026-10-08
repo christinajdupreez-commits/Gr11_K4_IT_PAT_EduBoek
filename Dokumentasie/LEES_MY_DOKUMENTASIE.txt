@@ -1,0 +1,17 @@
+DOKUMENTASIE-INDEKS
+
+HOOFDOKUMENTE
+- Taak 0: Probleemdefinisie en navorsing
+- Taak 1–6: Vereistes en ontwerp, met EduBoek-bylaag en generiese gebruiksgevaldiagram
+- Taak 7–10: Implementering, toetsing, dokumentasie en onderhoud, met PAT-skermgrepe en spesifieke EduBoek-gebruiksgevaldiagram
+- EduBoek Gebruikersgids
+- Hoe om 'n Delphi/Access-projek aan te pak
+- Finale Onderhoud- en Verduidelikingsgids
+
+ONDERHOUD_EN_LEERHULPMIDDELS
+- Delphi-kernopsomming
+- Taak 0 Onderhoudsgids met sleutelwoorde
+- Taak 1–6 Onderhoudsgids met sleutelwoorde en bykomende mini-onderhoudsvrae
+
+BRONMATERIAAL
+- Amptelike Graad 11 IT PAT 2026-riglyne

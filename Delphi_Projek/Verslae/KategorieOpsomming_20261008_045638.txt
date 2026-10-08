@@ -1,0 +1,13 @@
+﻿KATEGORIE-OPSOMMING
+EduBoek Skoolboekwinkel
+Datum: 08 October 2026
+------------------------------------------------------------------------------
+
+Kategorie                  Titels        Voorraad     Voorraadwaarde
+------------------------------------------------------------------------------
+Handboek                        2               8         R 2 044,00
+Werkboek                        0               0             R 0,00
+Leesboek                        0               0             R 0,00
+Naslaanboek                     0               0             R 0,00
+Skryfbehoeftes                  0               0             R 0,00
+Ander                           0               0             R 0,00

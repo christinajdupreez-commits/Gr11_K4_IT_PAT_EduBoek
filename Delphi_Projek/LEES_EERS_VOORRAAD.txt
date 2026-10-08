@@ -1,0 +1,61 @@
+﻿EDUBOEK - VOORRAAD SE VERWYDER- EN REKORDKEUSE-REGSTELLING
+=========================================================
+Weergawe: 1.5.0
+Regstellingsdatum: 7 Oktober 2026
+
+VERVANG EN BOU
+1. Kies File > Save All en sluit EduBoek en Delphi.
+2. Vervang NET uVoorraad.pas in jou bestaande Delphi_Projek-gids met die
+   gelyknamige lêer in hierdie pakket.
+3. Maak EduBoek.dpr in daardie gids oop; hou Win32 gekies.
+4. Kies Project > Build EduBoek. Wag vir Success en druk F9.
+5. Die drie TXT-lêers is ondersteunende dokumentasie. Die weergawegeskiedenis
+   en hierdie LEES_EERS-lêer vervang hul vorige dokumentasie-weergawes.
+
+WAT VERWYDER DOEN
+Die Aktief-merkie bepaal nie of 'n rekord uitgevee mag word nie. Verkoopsrekords
+bepaal dit, sodat die bestaande verkoops- en databasisgeskiedenis behoue bly.
+- Geen verkoopsrekords: die boodskap vra of jy permanent wil verwyder.
+  Yes verwyder die boek; No kanselleer en behou die rekord.
+- Met verkoopsrekords: die boodskap verduidelik dat uitvee nie toegelaat word nie.
+  Yes merk die boek as onaktief; No kanselleer en behou die rekord.
+- No is die verstekknoppie. Kansellasie verander geen boekdata nie.
+
+OM ENIGE BOEK GEWOON TE DEAKTIVEER
+Kies die boek, ontmerk Aktief en klik Wysig. Dit werk ook vir 'n boek sonder
+verkoopsrekords. Die boek bly in Voorraadbestuur beskikbaar. Om dit weer te
+aktiveer, kies dit, merk Aktief en klik Wysig.
+
+REKORDKEUSE
+Klik op 'n datakolom OF op die rymerker links van die boekry. Albei moet nou
+die besonderhede laai en Status: Rekord gekies wys. Die navigasiesleutels
+Up, Down, Page Up, Page Down, Home en End werk die besonderhede ook by.
+
+KNOPPIES WAT REEDS WERK
+Soek filter volgens boekkode of titel. Wys alles verwyder die soekfilter en
+maak die soekveld leeg. Maak skoon maak die boekinvoer leeg en fokus Boekkode;
+dit behou die huidige soekfilter. Die grys soekwenk is reeds prakties bevestig.
+
+KORT HERSIENINGSTOETSE
+1. Kies 'n boek deur op die rymerker te klik: kontroleer kode, besonderhede en status.
+2. Gebruik Up/Down in die tabel: die besonderhede moet die gekose boek volg.
+3. Voeg 'n tydelike toetsboek by, bv. TOETS01, met geldige besonderhede.
+4. Kies dié boek, klik Verwyder en kies No: geen suksesboodskap van uitvee nie;
+   die boek moet met Soek en Wys alles steeds gevind kan word.
+5. Kies dié boek, ontmerk Aktief en klik Wysig. Kies dit weer: Aktief moet af bly.
+6. Klik Verwyder op dié boek sonder verkope: die boodskap vra nog oor uitvee,
+   al is Aktief af. Yes moet net daardie tydelike toetsboek verwyder.
+7. Nadat 'n verkoop vir 'n toetsboek aangeteken is, kies daardie boek en klik
+   Verwyder: die boodskap moet nou oor deaktivering praat. Toets eers No
+   (Aktief behou), dan Yes (boek bly, Aktief af, verkoopsrekord behou).
+8. Soek op 'n bestaande kode en titel, gebruik Wys alles, en toets Maak skoon
+   om te bevestig dat die vorige regstellings steeds werk.
+
+BEWYSE EN BEPERKINGS
+Die vorige boodskap se verwarring en die ontbrekende rymerker-laai is aangeteken.
+Die gebruiker se melding dat No 'n boek uitgevee het, kon nie met die beskikbare
+skermgrepe bevestig word nie; die vorige bron verlaat reeds die prosedure vir No.
+Hierdie weergawe maak kansellasie uitdruklik en wys die kansellasiestatus.
+Die bron, gebeurtenisbindings en bevestigingsvoorwaardes is nagegaan. Delphi/VCL
+en Access/ADO kan nie hier uitgevoer word nie; hierdie nuwe toetse moet nog op
+die gebruiker se rekenaar geslaag word voordat die verslag hulle as geslaag merk.

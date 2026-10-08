@@ -1,0 +1,13 @@
+﻿LAE VOORRAADVERSLAG
+EduBoek Skoolboekwinkel
+Datum: 08 October 2026
+------------------------------------------------------------------------------
+
+Boekkode     Titel                                    Voorraad    Minimum
+------------------------------------------------------------------------------
+ATL05        Atlas van Afrika                                2          5
+FANVLDON02   Donker kamers                                   5          5
+ENG08 SL     English Graad 8 Tweede Taal                     2          5
+KVFWT11      Ken en Verstaan Fisiese Wetenskappe             4          5
+
+Totaal lae voorraad-items: 4

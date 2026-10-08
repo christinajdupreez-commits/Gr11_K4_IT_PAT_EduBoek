@@ -1,0 +1,7 @@
+BEGIN HIER
+
+1. Lees LEES_MY_FINAAL.txt vir die finale pakketstruktuur.
+2. Open Delphi_Projek/README_EERSTE_STAPPE.txt voordat die program getoets word.
+3. Gebruik Delphi_Projek/TOETSLYS.txt tydens praktiese toetsing.
+4. Die nuutste dokumente is in Dokumentasie.
+5. Die korrekte diagramme en prototipe-skermgrepe is in Skermgrepe.

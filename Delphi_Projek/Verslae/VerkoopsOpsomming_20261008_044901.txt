@@ -1,0 +1,11 @@
+﻿VERKOOPSOPSOMMING
+EduBoek Skoolboekwinkel
+Datum: 08 October 2026
+------------------------------------------------------------------------------
+
+Boekkode     Titel                                  Aantal   Totale waarde
+------------------------------------------------------------------------------
+IT11         IT Delphi Gr 11                             3      R 1 020,00
+
+Totale boeke verkoop: 3
+Totale verkoopswaarde: R 1 020,00

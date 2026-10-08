@@ -1,0 +1,25 @@
+EDUBOEK PRAKTIESE TOETSLYS - WEERGAWE 1.5.0
+================================================
+
+Merk elke toets as GESLAAG / MISLUK en neem skermgrepe.
+
+1. Eerste loop skep Data\Boekwinkel.mdb.
+2. Hoofmenu wys logo, rol, weergawe en databasisstatus.
+3. Voeg 'n geldige nuwe boek by.
+4. Toets leë boekkode.
+5. Toets duplikaatboekkode.
+6. Toets prys = abc en prys = -50.
+7. Wysig 'n boek se prys/voorraad.
+8. Soek volgens boekkode en titel.
+9. Verwyder 'n boek sonder verkope.
+10. Deaktiveer 'n boek met verkope.
+11. Verkoop 2 boeke uit voorraad 12; voorraad moet 10 word.
+12. Probeer meer as beskikbare voorraad verkoop.
+13. Verkoop presies beskikbare voorraad; voorraad moet 0 word.
+14. Genereer lae voorraadverslag.
+15. Genereer verkoopsopsomming.
+16. Genereer kategorie-opsomming.
+17. Skryf verslag na .txt en open die Verslae-gids.
+18. Bevestig VerslagGeskiedenis.txt bevat 'n nuwe lyn.
+19. Heropen program en bevestig data bly gestoor.
+20. Rugsteun Data\Boekwinkel.mdb en die projekgids.

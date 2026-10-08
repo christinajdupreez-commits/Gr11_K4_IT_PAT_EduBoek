@@ -1,0 +1,14 @@
+EDUBOEK PROJEKSTRUKTUUR
+======================
+
+EduBoek.dpr                 Programbegin
+uGemeenskaplik.pas          Konstantes, skikkings en hulpmiddels
+uData.pas / uData.dfm       Access/ADO-datamodule
+uHoofmenu.pas / .dfm       Logo, weergawe en navigasie
+uVoorraad.pas / .dfm        Boek-CRUD en voorraad
+uVerkope.pas / .dfm         Verkope en voorraadtransaksie
+uVerslae.pas / .dfm         Verslae en tekslêers
+EduBoek_Logo.png            Hoofskermlogo
+KategorieLys.txt             Tekslêerinvoer
+Data\Boekwinkel.mdb        Word op eerste loop geskep
+Verslae\                    Uitvoer- en ouditlêers

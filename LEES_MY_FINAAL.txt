@@ -1,0 +1,30 @@
+ANDRE DU PREEZ – EDUboek IT PAT 2026
+FINALE WERKPAKKET
+
+Hierdie pakket bevat die nuutste en korrekte dokumente, Delphi-projeklêers,
+skermgrepe, diagramme, gebruikersgids en onderhoud-/leerhulpmiddels.
+
+BELANGRIKE HOOFDOKUMENTE
+1. Dokumentasie/Andre_du_Preez_Gr11_IT_PAT_2026_Taak0_Probleemdefinisie_en_Navorsing.docx
+2. Dokumentasie/Andre_du_Preez_Gr11_IT_PAT_2026_Taak1_tot_6_met_EduBoek_Bylaag.docx
+3. Dokumentasie/Andre_du_Preez_Gr11_IT_PAT_2026_Taak7_tot_10_Implementering_en_Dokumentasie.docx
+4. Dokumentasie/EduBoek_Gebruikersgids_Weergawe_1_0_0.docx
+5. Dokumentasie/Andre_du_Preez_Hoe_om_n_Delphi_Access_Projek_aan_te_pak.docx
+6. Dokumentasie/Andre_du_Preez_EduBoek_Finale_Onderhoud_en_Verduidelikingsgids.docx
+
+ONDERHOUD EN LEER
+Sien Dokumentasie/Onderhoud_en_Leerhulpmiddels vir die Delphi-kernopsomming,
+Taak 0-onderhoudsgids en Taak 1–6-onderhoudsgids.
+
+PROGRAM
+Die volledige Delphi-projek is in Delphi_Projek.
+Open EduBoek.dpr in Delphi Community Edition en volg README_EERSTE_STAPPE.txt
+en TOETSLYS.txt.
+
+BELANGRIK
+Die program moet nog prakties in Delphi/Windows getoets word. Wanneer dit werk,
+moet die werklike toetsresultate en regte programskermgrepe in die Taak 7–10-
+dokument en uiteindelike finale saamgestelde PAT-dokument ingevoeg word.
+
+Die verkeerde algemene aanlyn-shopping-diagram is NIE in hierdie pakket nie.
+Die twee korrekte gebruiksgevaldiagramme is in die Skermgrepe-lêergids.

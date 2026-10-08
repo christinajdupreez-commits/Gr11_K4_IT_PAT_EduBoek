@@ -1,0 +1,10 @@
+﻿LAE VOORRAADVERSLAG
+EduBoek Skoolboekwinkel
+Datum: 08 October 2026
+------------------------------------------------------------------------------
+
+Boekkode     Titel                                    Voorraad    Minimum
+------------------------------------------------------------------------------
+ENG08 SL     English Graad 8 Tweede Taal                     2          5
+
+Totaal lae voorraad-items: 1

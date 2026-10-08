@@ -1,0 +1,56 @@
+﻿EDUBOEK - PRAKTIESE VOORRAADTOETSUITSLAE
+========================================
+Leerder: Andre du Preez
+Weergawe: 1.5.0
+Praktiese toetsdatum: 7 Oktober 2026
+Bewysgrondslag: gebruikersterugvoer en aangehegte skermgrepe.
+
+PRAKTIES GESLAAG
+V01 - Win32 bou en uitvoer; Voorraadbestuur open sonder die vorige fokusfout.
+V02 - Grys soekwenk verskyn in die leë soekveld.
+V03 - Graad- en Kategorie-keuselyste vertoon korrek.
+V04 - IT11-soektog wys IT Delphi Gr 11. Bewys: image(20261007-014805).png.
+V05 - Wiskunde-soektog wys WIS10; telling 1. Bewys: image(20261007-015534).png.
+V06 - BESTAANNIE wys 'n leë tabel; telling 0. Bewys: image(20261007-020834).png.
+V07 - Titelsoektog Gr 11 wys AFR11 en IT11; telling 2.
+      Bewys: image(20261007-023417).png.
+V08 - Wys alles maak die soekveld leeg en herstel die volledige lys en telling.
+      Ná byvoeging/verwydering moet die telling met die huidige data ooreenstem.
+V09 - Maak skoon herstel boekinvoer en fokus Boekkode; die filter bly behoue.
+      Bewys: image(20261007-014805).png en gebruikersterugvoer.
+V10 - Wysig sonder gekose rekord waarsku: Kies eers 'n boekrekord om te wysig.
+      Bewys: image(20261007-015016).png.
+V11 - Klik in 'n datakolom laai boekbesonderhede en gekose-rekord-status.
+      Bewys: image(20261007-021519).png.
+V12 - Wysig stoor die verandering en wys sukses; herkeuse bevestig prys 200
+      en voorraad 3 vir ENG08. Bewyse: image(20261007-022820).png en
+      image(20261007-024046).png.
+V13 - Deaktivering deur Aktief te ontmerk en Wysig te klik werk volgens die gebruiker.
+      Die skermgreep image(20261007-025847).png wys WIS10 met Aktief af.
+V14 - Voeg by stoor die nuwe LO08-boek; dit verskyn in die lys.
+      Bewyse: image(20261007-033721).png en image(20261007-034020).png.
+V15 - Yes op Verwyder vee 'n boek sonder verkope uit. Die ou bevestiging was
+      egter verwarrend. Bewys: image(20261007-032327).png en gebruikersterugvoer.
+V16 - Terug en Verlaat werk volgens vroeëre gebruikersterugvoer.
+
+PROBLEME EN HERSIENING WAT NOG GETOETS MOET WORD
+H01 - Die vorige rymerker verander die tabelkeuse maar laai nie die invoervelde nie.
+      Regstelling: rymerker se OnMouseUp laai ook die gekose rekord.
+H02 - Die vorige vraag Verwyder of deaktiveer beskryf nie Yes/No se werking nie.
+      Regstelling: tel eers verkope en verduidelik die enkele voorgestelde aksie.
+H03 - Die gebruiker het gemeld dat No ook uitgevee het. Die beskikbare bron en
+      skermgrepe bevestig nie daardie uitvoering nie. Regstelling maak No se
+      kansellasie en status uitdruklik. 'n Nuwe praktiese No-toets is nodig.
+H04 - Deaktivering met Verwyder vir 'n boek met verkoopsrekords is nog nie bewys nie.
+      Toets ná verkope: die boek en verkoopsrekord moet bly; Aktief word af gemerk.
+
+SKERMGREEPKWALITEIT
+Die skermgrepe met gekleurde blokke is nuttige toetsbewyse. Vir die finale
+gebruikersgids is 'n volledige, skoon vormskermgreep ook nuttig. Vier aangehegte
+snitte is te klein om programwerking te beoordeel: image(20261007-021052).png,
+image(20261007-023559).png, image(20261007-034053).png is enkele klein fragmente;
+image(20261007-021139).png wys net die tabelkeuse. Gebruik die groter relevante
+skermgrepe vir die finale verslag.
+
+Hierdie register onderskei praktiese uitslae van bronregstellings. Die nuwe
+Verwyder- en rymerker-regstellings is nog nie as prakties geslaag gemerk nie.
