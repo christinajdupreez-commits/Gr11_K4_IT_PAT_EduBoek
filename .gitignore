@@ -1,0 +1,14 @@
+__history/
+__recovery/
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.dsk
+*.stat
+*.dcu
+*.exe
+*.map
+*.tds
+*.rsm
+*.laccdb
+*.ldb
